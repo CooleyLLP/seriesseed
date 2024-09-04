@@ -1,5 +1,8 @@
 # Series Seed Equity Documents - Cooley Fork 
 
+## Version 1.04 (September 3, 2024)
+Updates to accredited investor questionnaire, addition of optional diversity rider to term sheet, and other various modifications and improvements.
+
 ## Version 1.03 (September 3, 2022)
 _Restated Certificate of Incorporation_: Removed broken reference in Section 3.9.1.
 
