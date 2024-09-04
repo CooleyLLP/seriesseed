@@ -1,6 +1,6 @@
-# TERMS FOR PRIVATE PLACEMENT OF SERIES SEED PREFERRED STOCK OF *[COMPANY NAME]*
+# TERMS FOR PRIVATE PLACEMENT OF SERIES SEED PREFERRED STOCK OF [COMPANY NAME]
 
-The following is a summary of the principal terms with respect to the proposed Series Seed Preferred Stock financing of *[Company Name]*, a Delaware corporation (the "Company").  Except for the section entitled "Binding Terms," this summary of terms does not constitute a legally binding obligation.  The parties intend to enter into a legally binding obligation only pursuant to definitive agreements to be negotiated and executed by the parties.
+The following is a summary of the principal terms with respect to the proposed Series Seed Preferred Stock financing of [Company Name], a Delaware corporation (the "Company").  Except for the section entitled "Binding Terms," this summary of terms does not constitute a legally binding obligation.  The parties intend to enter into a legally binding obligation only pursuant to definitive agreements to be negotiated and executed by the parties.
 
 ## Offering Terms  
 
@@ -10,15 +10,15 @@ Shares of a new series of preferred stock of the Company (the "Series Seed").
 
 ### Aggregate Proceeds:	
 
-*$[_________]* in aggregate new capital. [In addition, the *$[_________]* of outstanding convertible securities (convertible promissory notes and/or SAFEs) (and all accrued but unpaid interest thereon) (the "Convertible Securities") will also convert on the same terms as stated herein.]
+$[_________] in aggregate new capital. [In addition, the $[_________] of outstanding convertible securities (convertible promissory notes and/or SAFEs) (and all accrued but unpaid interest thereon) (the "Convertible Securities") will also convert on the same terms as stated herein.]
 
 ### Purchasers:	
 
-*[Accredited investors approved by the Company]* (the "Purchasers").
+Accredited investors approved by the Company (the "Purchasers").
 
 ### Price Per Share:	
 
-Price per share (the "Original Issue Price"), based on a pre-money valuation of *$[_________]*, including an available option pool of *[___]*% of the post-money fully diluted capital of the Company. [The Convertible Securities will [not] be included in the pre-money shares for purposes of determining the Original Issue Price.]
+Price per share (the "Original Issue Price"), based on a pre-money valuation of $[_________], including an available option pool of [___]% of the post-money fully diluted capital of the Company. [The Convertible Securities will [not] be included in the pre-money shares for purposes of determining the Original Issue Price.]
 
 ### Liquidation Preference:	
 
@@ -38,7 +38,7 @@ This Term Sheet, and the related investment documents, have been prepared using 
 
 ### Financial Information:	
 
-Purchasers who have invested at least *[$________]* ("Major Purchasers") will receive standard information and inspection rights.
+Purchasers who have invested at least $[_________] ("Major Purchasers") will receive standard information and inspection rights.
 
 ### Participation Right:	
 
@@ -46,10 +46,10 @@ Major Purchasers will have the right to participate on a pro rata basis in subse
 
 ### Board of Directors:	
 
-The Board of Directors will consist of *[___]* members as follows: 
-* Holders of Common Stock will have the right to elect *[___]* member[s] of the Board of Directors, initially [insert name(s)].
-* [Holders of a majority of Series Seed will have the right to elect *[___]* member[s] of the Board of Directors, initially [insert name(s)][vacant].]
-* [Holders of Common Stock and Series Seed, voting together as a single class, will have the right to elect *[___]* member[s] of the Board of Directors, initially [insert name(s)][vacant].]
+The Board of Directors will consist of [___] members as follows: 
+* Holders of Common Stock will have the right to elect [___] member[s] of the Board of Directors, initially [insert name(s)].
+* [Holders of a majority of Series Seed will have the right to elect [___] member[s] of the Board of Directors, initially [insert name(s)][vacant].]
+* [Holders of Common Stock and Series Seed, voting together as a single class, will have the right to elect [___] member[s] of the Board of Directors, initially [insert name(s)][vacant].]
 
 ### Expenses:	
 
@@ -59,9 +59,17 @@ Company to reimburse counsel to Purchasers for a flat fee of $[10,000].
 
 The Series Seed will be given the same rights as the next series of Preferred Stock (with appropriate adjustments for economic terms).
 
+### Key Holders:	
+
+[_______]
+
 ### Key Holder Matters:	
 
-Each Key Holder shall have four years vesting beginning *[_______]*. Full acceleration upon "Double Trigger." Each Key Holder shall have assigned all relevant IP to the Company before closing.
+Each Key Holder will have four years vesting beginning [_______]. Full acceleration upon "Double Trigger." Each Key Holder shall have assigned all relevant IP to the Company before closing.
+
+### [Diversity Rider:	
+
+In order to advance diversity efforts in the venture capital industry, the Company and the lead investor, [_______], will make commercial best efforts to offer and make every attempt to include as a co-investor in the financing at least one Black[ or other underrepresented group including, but not limited to LatinX, women, LGBTQ+] check writer (DCWs), and to allocate a minimum of [___]% or $[_______] of the total round for such co-investor.]
 
 ### Binding Terms:	
 
@@ -72,7 +80,7 @@ For a period of 30 days, the Company will not solicit offers from other parties 
  Accepted and agreed as of the latest date set forth below:
 ## COMPANY: 
 
-*[Company Name]*
+[Company Name]
 						
 Name:  	
 

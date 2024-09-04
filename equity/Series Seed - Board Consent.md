@@ -8,9 +8,9 @@ The undersigned, constituting all of the members of the Board of Directors (the 
 
 WHEREAS, the Board hereby declares the advisability of the amendment and restatement of the Company's Certificate of Incorporation to read in its entirety in the form attached hereto as Exhibit A (the "Restated Certificate") that, among other things:
 
-1. increases the number of authorized shares of the Company's common stock (the "Common Stock") and preferred stock (the "Preferred Stock");
-2. designates [________] shares of the Company's authorized but unissued Preferred Stock as "Series Seed Preferred Stock" (the "Series Seed Preferred"); and 
-3. sets forth rights, privileges and preferences of the Common Stock and the Series Seed Preferred.
+(i) increases the number of authorized shares of the Company's common stock (the "Common Stock") and preferred stock (the "Preferred Stock");
+(ii) designates [________] shares of the Company's authorized but unissued Preferred Stock as "Series Seed Preferred Stock" (the "Series Seed Preferred"); and 
+(iii) sets forth rights, privileges and preferences of the Common Stock and the Series Seed Preferred.
 
 RESOLVED, that the Restated Certificate be, and it hereby is, subject to the approval by the Company's stockholders, amended and restated to read in the form of the Restated Certificate;
 
@@ -28,8 +28,7 @@ RESOLVED, that the Series Seed Preferred Stock Investment Agreement providing fo
 
 RESOLVED FURTHER, that the officers of the Company be, and each of them hereby is, authorized and directed, for and on behalf of the Company, to execute and deliver the Purchase Agreement and the Management Rights Letter (collectively, the "Agreements"), and any and all other agreements, certificates or documents required or contemplated by any of the Agreements or deemed necessary or appropriate in connection therewith, and to take all actions deemed necessary or appropriate to cause the Company's obligations thereunder to be performed;
 
-RESOLVED FURTHER, that the officers of the Company be, and each of them hereby is, authorized and directed, for and on behalf of the Company, to negotiate or otherwise cause such additions, modifications, amendments or deletions to be made to any of the Agreements, and such other agreements, certificates or documents, as any such officer may approve, and the execution and delivery thereof by such officer shall be deemed conclusive evidence of the approval of any such addition, modification, amendment or
-deletion;
+RESOLVED FURTHER, that the officers of the Company be, and each of them hereby is, authorized and directed, for and on behalf of the Company, to negotiate or otherwise cause such additions, modifications, amendments or deletions to be made to any of the Agreements, and such other agreements, certificates or documents, as any such officer may approve, and the execution and delivery thereof by such officer shall be deemed conclusive evidence of the approval of any such addition, modification, amendment or deletion;
 
 RESOLVED FURTHER, that up to [_________] shares of the Series Seed Preferred be, and they hereby are, reserved for issuance pursuant to the terms and conditions of the Purchase Agreement, and that the officers of the Company be, and each of them hereby is, authorized and directed, for and on behalf of the Company, to sell and issue the Series Seed Preferred for the consideration provided for in the Purchase Agreement and otherwise upon the terms and conditions described therein;
 
@@ -39,8 +38,7 @@ RESOLVED FURTHER, that when the consideration provided for in the Purchase Agree
 
 RESOLVED FURTHER, that the officers of the Company be, and each of them hereby is, authorized and directed, for and on behalf of the Company, to execute and deliver one or more certificates for the Series Seed Preferred and any shares of the Common Stock issued upon conversion of the Series Seed Preferred, in such form as may be approved by such officers; and
 
-RESOLVED FURTHER, that the Series Seed Preferred shall be offered, sold and issued in reliance on any applicable exemption from registration provided by the Securities Act of 1933, as amended, and any applicable exemption under applicable state blue sky laws, and that the officers of the Company be, and each of them hereby is, authorized and directed, for and on behalf of the Company, to execute and file any forms, certificates, notices or other documents that are necessary or appropriate pursuant to federal or
-state securities laws.
+RESOLVED FURTHER, that the Series Seed Preferred shall be offered, sold and issued in reliance on any applicable exemption from registration provided by the Securities Act of 1933, as amended, and any applicable exemption under applicable state blue sky laws, and that the officers of the Company be, and each of them hereby is, authorized and directed, for and on behalf of the Company, to execute and file any forms, certificates, notices or other documents that are necessary or appropriate pursuant to federal or state securities laws.
 
 ## Additional Filings
 
@@ -51,12 +49,11 @@ RESOLVED, that the appropriate officers of the Company be, and each of them here
 RESOLVED, that the officers of the Company be, and each of them hereby is, authorized and directed, for and on behalf of the Company, to take such further actions and execute such documents as may be necessary or appropriate in order to implement the foregoing resolutions.
 
 [Signature Page Follows]
-
 ***
 
 This Action by Written Consent shall be filed with the minutes of the proceedings of the Board of Directors of the Company.
 
-The undersigned have executed this Action by Written Consent as of the date set forth under his or her name below. Any copy, facsimile, .PDF or other reliable reproduction of this Action by Written Consent may be substituted or used in lieu of the original writing for any and all purposes for which the original writing could be used, provided that such copy, facsimile, .PDF or other reproduction be a complete reproduction of the entire original writing.
+The undersigned has executed this Action by Written Consent as of the date set forth under such signatory's name below. Any copy, facsimile, .PDF or other reliable reproduction of this Action by Written Consent may be substituted or used in lieu of the original writing for any and all purposes for which the original writing could be used, provided that such copy, facsimile, .PDF or other reproduction be a complete reproduction of the entire original writing.
 
 __________________ |
 --- |
