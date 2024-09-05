@@ -1,5 +1,8 @@
 # Series Seed Notes
 
+## Version 1.03 (September 3, 2024)
+Updates to accredited investor questionnaire, addition of optional diversity rider to term sheet, and other various modifications and improvements.
+
 ## Version 1.02 (October 30, 2017)
 _Term Sheet_: Revising "Change of Control" to "acquisition"
 
